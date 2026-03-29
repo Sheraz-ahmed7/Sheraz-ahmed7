@@ -17,8 +17,9 @@
 ## About
 
 Second-year Software Engineering student building real systems across backend, ML, and desktop software.
-Currently interning in Machine Learning at Arch Technologies while working on production-grade Java applications.
-I care about writing clean, purposeful code — projects that solve real problems, not just fill a portfolio.
+Currently interning in Machine Learning at Arch Technologies and actively building computer vision
+and AI projects. I care about writing clean, purposeful code — projects that solve real problems,
+not just fill a portfolio.
 
 ---
 
@@ -30,21 +31,30 @@ I care about writing clean, purposeful code — projects that solve real problem
 | Backend | JDBC, MySQL, OOP, DSA, SQL |
 | GUI / Desktop | Java Swing, IntelliJ IDEA, VS Code |
 | Web | HTML, CSS, JavaScript |
-| ML / AI | Neural Networks, Applied ML *(active)* |
+| ML / AI | OpenCV, Computer Vision, Neural Networks |
+| Tools | Git, GitHub *(learning)* |
 
 ---
 
 ## Projects
 
-### Smart Energy Optimization System `Java` `MySQL` `Swing` `JFreeChart`
+### 😴 Sleep Detector System `Python` `OpenCV` `ML`
+Real-time drowsiness detection using facial landmark analysis.
+Monitors eye aspect ratio to trigger alerts when sleepiness is detected — practical safety application.
+
+### 👁️ Face Detection System `Python` `OpenCV`
+Real-time face detection pipeline using computer vision techniques.
+Explored Haar cascades and deep learning-based detection approaches.
+
+### ⚡ Smart Energy Optimization System `Java` `MySQL` `Swing` `JFreeChart`
 University-scale energy management desktop app. Role-based dashboards, live KPI tracking, and usage
 analytics. Built for a hackathon with a full JDBC/MySQL backend.
 
-### Train Ticket Booking System `Java` `JDBC` `Swing`
+### 🚆 Train Ticket Booking System `Java` `JDBC` `Swing`
 Railway reservation system with role-based access control and automated seat allocation logic.
 Clean OOP architecture designed for real-world usability.
 
-### Smart Grocery Management System `Java` `DSA`
+### 🛒 Smart Grocery Management System `Java` `DSA`
 Inventory and customer management with fast item lookup using data structures.
 GUI-driven interaction built for speed and simplicity.
 
@@ -52,9 +62,11 @@ GUI-driven interaction built for speed and simplicity.
 
 ## Currently Learning
 ```
-Machine Learning fundamentals   ████████████░░░░░░░  65%
-Neural networks & deep learning ████████░░░░░░░░░░░  45%
-Agentic AI systems              █████░░░░░░░░░░░░░░  30%
+Machine Learning & AI          ██████████████░░░░░  70%
+Computer Vision (OpenCV)       ████████████░░░░░░░  60%
+Neural networks & deep learning████████░░░░░░░░░░░  45%
+Git & GitHub                   ███████░░░░░░░░░░░░  40%
+Agentic AI systems             █████░░░░░░░░░░░░░░  30%
 ```
 
 ---
