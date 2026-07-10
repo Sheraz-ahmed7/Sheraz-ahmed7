@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A63F7&center=true&vCenter=true&width=650&lines=Final-Year+Software+Engineering+Student;ML+Intern+%40+FlyRank+AI;Building+AI-Powered+Full-Stack+Systems;Computer+Vision+%7C+Java+%7C+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A63F7&center=true&vCenter=true&width=650&lines=3rd-Year+Software+Engineering+Student;ML+Intern+%40+FlyRank+AI;Building+AI-Powered+Full-Stack+Systems;Computer+Vision+%7C+Java+%7C+Python" />
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 
 ### 🧠 About Me
 
-I'm a final-year **BS Software Engineering** student at **Sukkur IBA University** (Class of 2026), currently working as an **ML Intern at FlyRank AI**. My work sits at the intersection of **applied machine learning, computer vision, and full-stack engineering** — I care less about tutorials and more about shipping systems that actually run: real-time detection pipelines, multilingual AI tools, and production-style desktop applications with proper architecture underneath.
+I'm a 3rd-year **BS Software Engineering** student at **Sukkur IBA University**, currently working as an **ML Intern at FlyRank AI**. My work sits at the intersection of **applied machine learning, computer vision, and full-stack engineering** — I care less about tutorials and more about shipping systems that actually run: real-time detection pipelines, multilingual AI tools, and production-style desktop applications with proper architecture underneath.
 
 I approach engineering with a product mindset — clean design patterns, measurable performance, and code built to be maintained, not just demoed.
 
@@ -222,7 +222,7 @@ Applied machine learning and AI/ML engineering work spanning model development, 
 | Recognition | Details |
 |---|---|
 | 🏆 SIBATHON'26 Hackathon | Built SEUS (Smart Energy Optimization System) with team CodeCrafters |
-| 🎓 Academic Standing | Final-year BS Software Engineering, Sukkur IBA University |
+| 🎓 Academic Standing | 3rd-year BS Software Engineering, Sukkur IBA University |
 | 📜 Coursera Certification | Google — Crash Course on Python |
 
 </div>
