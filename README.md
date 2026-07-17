@@ -15,7 +15,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=white)](https://sheraz-ahmed7.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheraz-ahmed-52b715328)
 [![Gmail](https://img.shields.io/badge/Email-5865F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherazahmed5422@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sheraz-ahmed7)
 
@@ -243,7 +243,15 @@ Applied machine learning and AI/ML engineering work spanning model development, 
 
 ### 💻 Coding Profiles
 
-> *Add your LeetCode / GeeksforGeeks / HackerRank / CodeChef handles and I'll wire up premium badges for each.*
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sheraz_Ahmed7/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/trip_hug_54)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sherazahmed5422)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sherazahuuaf)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sherazahmed7)
+
+</div>
 
 ---
 
@@ -302,7 +310,7 @@ Open To:    AI/ML roles, Computer Vision projects, Freelance work (Fiverr)
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/sherazahmed5422%40gmail.com-4c2a85?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherazahmed5422@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c2a85?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c2a85?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheraz-ahmed-52b715328)
 [![GitHub](https://img.shields.io/badge/GitHub-4c2a85?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sheraz-ahmed7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4c2a85?style=for-the-badge&logo=vercel&logoColor=white)](https://sheraz-ahmed7.github.io/)
 
